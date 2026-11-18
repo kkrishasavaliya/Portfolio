@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "C:\\Users\\MAHESHBHAI\\AppData\\Local\\Temp\\claude\\f490ccd9a3a3ee3c\\603f4168-c908-4011-8a15-7715c5481617\\scratchpad\\serve.js",
+        "C:\\Users\\MAHESHBHAI\\OneDrive\\ドキュメント\\sem-3 submission\\WT\\Portfolio",
+        "5173"
+      ],
+      "port": 5173
+    }
+  ]
+}
